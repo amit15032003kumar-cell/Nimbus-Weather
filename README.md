@@ -2,7 +2,7 @@
 
 NIMBUS is a premium, luxury-themed single-page weather application designed with a sleek Black/White/Blue color scheme. It features automatic geolocation, search suggestions, real-time weather analytics, and smooth CSS animations (particles, clouds, rain, snow) that adapt dynamically to current weather conditions.
 
-![NIMBUS UI Preview](https://images.unsplash.com/photo-1592210405989-78a2ae1ff68c?q=80&w=1200&auto=format&fit=crop)
+![NIMBUS UI Preview]   (https://amit15032003kumar-cell.github.io/nimbus-weather/ )                                                                   (https://images.unsplash.com/photo-1592210405989-78a2ae1ff68c?q=80&w=1200&auto=format&fit=crop)
 
 ## ✨ Features
 
@@ -37,7 +37,7 @@ The app is built entirely client-side. To run locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/nimbus-weather-web.git
+   git clone https://github.com/amit15032003kumar-cell/nimbus-weather-web.git
    ```
 2. Open `index.html` in your default web browser, or serve it using a local HTTP server:
    ```bash
